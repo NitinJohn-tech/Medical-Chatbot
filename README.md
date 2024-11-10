@@ -2,7 +2,7 @@ Medisync is a medical chatbot designed to provide accessible health information 
 
 Key Features:
 
-Symptom Assistance: Guides users in understanding common symptoms and potential causes.
+Symptom Assistance: Guides users in understanding common symptoms and potential causes.\n
 Health Education: Provides information on a variety of medical topics, from preventive health to chronic condition management.
 First Aid Tips: Offers immediate first-aid advice for minor injuries and emergencies.
 User-Friendly: Designed for ease of use, with responses crafted for clarity and accessibility.
